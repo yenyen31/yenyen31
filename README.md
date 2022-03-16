@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hello+I'm+yenyen31)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&color=4D06CD&center=true&lines=Hi+there!+I'm+Ye+eun.)](https://git.io/typing-svg)
 
 Hi there 👋
 - 🔭 I’m currently Software engineering major.
