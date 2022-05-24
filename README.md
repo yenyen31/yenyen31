@@ -9,4 +9,4 @@
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=yenyen31&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?yenyen31=anuraghazra&layout=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?yenyen31=anuraghazra&layout=dark)](https://github.com/anuraghazra/github-readme-stats)
