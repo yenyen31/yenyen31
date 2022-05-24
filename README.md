@@ -9,4 +9,4 @@
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=yenyen31&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-github-readme-stats.vercel.app/api/top-langs/?username={yenyen31}&langs_count=8
+
