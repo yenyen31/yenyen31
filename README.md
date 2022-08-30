@@ -1,9 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=TImes+New+Roman&size=35&color=8368C0&center=true&lines=Hi+there!+I'm+yenyen31!)](https://git.io/typing-svg)
 
 - 🔭 I’m currently Software engineering major.
-- 👯 I’m looking to collaborate on ...
+- ⚡ SKT DEVOCEAN YOUNG (2022.7.1 ~ )
 - 📫 How to reach me: totoro08285@naver.com
-- ⚡ Fun fact: ...
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yenyen31&show_icons=true&theme=material-palenight)
 
