@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=TImes+New+Roman&size=35&color=8368C0&center=true&lines=Hi+there!+I'm+yenyen31!)](https://git.io/typing-svg)
 
 - 🔭 I’m currently Software engineering major.
-- ⚡ SKT DEVOCEAN YOUNG 1기 (2022.7 ~ 2023.2)
+- ⚡ SKT DEVOCEAN YOUNG (2022.7 ~ 2023.2)
 - ⚡ UMC 3rd - Server(Spring) (2022.9.1 ~ 2022.12)
 - 📫 How to reach me: totoro08285@naver.com
 
