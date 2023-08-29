@@ -4,7 +4,7 @@
 - 💻 SKT DEVOCEAN YOUNG (2022.7 ~ 2023.2)
 - 💻 UMC 3rd - Server(Spring) (2022.9.1 ~ 2022.12)
 - 📱🍏 Swift Coding Club - Event Organizer (2023.07 ~ Now)
-- 📫 How to reach me: totoro08285@naver.com
+- ✉️ Email: totoro08285@naver.com
 - 🏡 Tech Vlog: https://yenyen31.tistory.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yenyen31&show_icons=true&theme=material-palenight)
