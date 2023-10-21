@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=TImes+New+Roman&size=35&color=8368C0&center=true&lines=Hi+there!+I'm+yenyen31!)](https://git.io/typing-svg)
 
-- 🔭 I’m currently Software engineering major.
+- 🔭 I’m currently Maijor in Department of Computer Science and Engineering.
 - 💻 SKT DEVOCEAN YOUNG (2022.07 ~ 2023.01)
 - 💻 UMC 3rd - Server(Spring) (2022.9.1 ~ 2022.12)
 - 📱🍏 Swift Coding Club - Event Organizer (2023.07 ~ Now)
