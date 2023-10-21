@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently Maijor in Department of Computer Science and Engineering.
 - 💻 SKT DEVOCEAN YOUNG (2022.07 ~ 2023.01)
-- 💻 UMC 3rd - Server(Spring) (2022.9.1 ~ 2022.12)
+- 💻 UMC 3rd - Server(Spring) (2022.09 ~ 2022.12)
 - 📱🍏 Swift Coding Club - Event Organizer (2023.07 ~ Now)
 - 👥 SUSC - SWU 대표 (2023.09 ~ Now)
 - 💜 Codeit 코드잇 - Admissions Manager (2023.09 ~ Now)
