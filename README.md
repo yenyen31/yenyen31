@@ -1,9 +1,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=TImes+New+Roman&size=35&color=8368C0&center=true&lines=Hi+there!+I'm+yenyen31!)](https://git.io/typing-svg)
 
 - 🔭 I’m currently Software engineering major.
-- 💻 SKT DEVOCEAN YOUNG (2022.7 ~ 2023.2)
+- 💻 SKT DEVOCEAN YOUNG (2022.07 ~ 2023.01)
 - 💻 UMC 3rd - Server(Spring) (2022.9.1 ~ 2022.12)
 - 📱🍏 Swift Coding Club - Event Organizer (2023.07 ~ Now)
+- 👥 SUSC - SWU 대표 (2023.09 ~ Now)
+- 💜 Codeit 코드잇 - Admissions Manager (2023.09 ~ Now)
+
+
 - ✉️ Email: totoro08285@naver.com
 - 🏡 Tech Vlog: https://yenyen31.tistory.com
 
