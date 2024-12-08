@@ -9,6 +9,7 @@
 - 💻 UMC 3rd - Server(Spring) (2022.09 ~ 2022.12)
 - 📱🍏 Swift Coding Club - Event Organizer (2023.07 ~ Now)
 - 👥 SUSC - SWU 대표 (2023.09 ~ Now)
+/n
 
 - ✉️ Email: totoro08285@naver.com
 - 🏡 Tech Vlog: https://yenyen31.tistory.com
