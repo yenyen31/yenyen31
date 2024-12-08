@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C13F7&width=435&lines=YE+EUN+LEE)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Record)](https://git.io/typing-svg)
 
 - 🔭 I’m currently Maijor in Department of Computer Science and Engineering.
 - 💜 Codeit 코드잇 - Sales/Marketing Intern, Admissions Manager (2023.09 ~ 2024.5.31)
@@ -9,7 +8,8 @@
 - 💻 UMC 3rd - Server(Spring) (2022.09 ~ 2022.12)
 - 📱🍏 Swift Coding Club - Event Organizer (2023.07 ~ Now)
 - 👥 SUSC - SWU 대표 (2023.09 ~ Now)
-/n
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Contact)](https://git.io/typing-svg)
 
 - ✉️ Email: totoro08285@naver.com
 - 🏡 Tech Vlog: https://yenyen31.tistory.com
