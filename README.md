@@ -10,7 +10,6 @@
 - 👥 SUSC - SWU 대표 (2023.09 ~ Now)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Contact)](https://git.io/typing-svg)
-
 - ✉️ Email: totoro08285@naver.com
 - 🏡 Tech Vlog: https://yenyen31.tistory.com
 
