@@ -3,9 +3,12 @@
 - 🔭 I’m currently Maijor in Department of Computer Science and Engineering.
 - 💜 **Codeit 코드잇 - Admissions Manager, Sales/Marketing Intern (2023.09 ~ 2024.6)**
 - 💻 SKT DEVOCEAN YOUNG (2022.07 ~ 2023.01)
-  - [베스트 활동상] 수상
+  - 🏆[베스트 활동상] 수상
 - ❤️ KT KIT 대학생 IT 서포터즈 (2024.12 ~ 2025.02)
+  - 🏆[우수팀 (팀 1위)] 수상
+  - 🏆[우수 단원상 (개인 1위)] 수상
 - 👩🏻‍🎓 GDG on Campus SWU DevRel - Cooperaiton (Team)Core member (2024.08 ~ 2025.09)
+  - 🏆[활동 MVP] 수상
 - ☁️ 9oormthonuniv 구름톤 유니브 - 중앙 미르미, 기획 PM (2024.02 ~ 2024.08)
 - 💻 UMC 3rd - Server(Spring) (2022.09 ~ 2022.12)
 - 📱🍏 Swift Coding Club - Event Organizer (2023.07 ~ Now)
