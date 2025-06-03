@@ -1,8 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Record)](https://git.io/typing-svg)
 
 - 🔭 I’m currently Maijor in Department of Computer Science and Engineering.
-- 💜 **Codeit 코드잇 - Sales/Marketing Intern, Admissions Manager (2023.09 ~ 2024.5.31)**
+- 💜 **Codeit 코드잇 - Admissions Manager, Sales/Marketing Intern (2023.09 ~ 2024.6)**
 - 💻 SKT DEVOCEAN YOUNG (2022.07 ~ 2023.01)
+  - 
 - ❤️ KT KIT 대학생 IT 서포터즈 (2024.12 ~ 2025.02)
 - 👩🏻‍🎓 GDG on Campus SWU DevRel - Cooperaiton (Team)Core member (2024.08 ~ 2025.09)
 - ☁️ 9oormthonuniv 구름톤 유니브 - 중앙 미르미, 기획 PM (2024.02 ~ 2024.08)
