@@ -7,7 +7,7 @@
 - ❤️ KT KIT 대학생 IT 서포터즈 (2024.12 ~ 2025.02)
   - 🏆[우수팀 (팀 1위)] 수상
   - 🏆[우수 단원상 (개인 1위)] 수상
-- 👩🏻‍🎓 GDG on Campus SWU DevRel - Cooperaiton (Team)Core member (2024.08 ~ 2025.09)
+- 👩🏻‍🎓 GDG on Campus SWU DevRel - Cooperaiton (Team)Core member (2024.08 ~ 2025.08)
   - 🏆[활동 MVP] 수상
 - ☁️ 9oormthonuniv 구름톤 유니브 - 중앙 미르미, 기획 PM (2024.02 ~ 2024.08)
 - 💻 UMC 3rd - Server(Spring) (2022.09 ~ 2022.12)
